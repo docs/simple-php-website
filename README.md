@@ -1,6 +1,6 @@
 # Simple PHP-based website
 
-This project is used in the GitHub documentation to guide users through the process of converting a project written on one language to another language - for example, from PHP to Python.
+This project is used in the GitHub documentation to guide users through the process of converting a project written in one language to another language - for example, from PHP to Python.
 
 The repository is derived from the public GitHub repository [banago/simple-php-website](https://github.com/banago/simple-php-website).
 
